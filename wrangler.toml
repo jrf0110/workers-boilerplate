@@ -1,0 +1,5 @@
+compatibility_date="2024-10-13"
+name = "workers-assets-boilerplate"
+main = "src/worker/worker.ts"
+
+assets = { directory = "./dist" }

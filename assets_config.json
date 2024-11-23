@@ -1,0 +1,6 @@
+{
+	"version": 2,
+	"directory": "./dist",
+	"binding": "ASSETS",
+	"routes": {}
+}
